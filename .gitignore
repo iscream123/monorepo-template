@@ -1,0 +1,16 @@
+/node_modules
+/.env.local
+.umi
+.umi-production
+/src/.umi-test
+/dist
+.swc
+.idea
+*.zip
+yarn-error.log
+
+!.gitkeep
+.turbo
+dist
+node_modules
+.vscode

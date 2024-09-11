@@ -1,0 +1,5 @@
+# 告诉 pnpm 哪些目录是工作区，并在安装依赖时将它们链接到一起。
+# apps目录下是应用，packages目录下是共享仓库
+packages:
+  - "apps/*"
+  - "packages/*"
